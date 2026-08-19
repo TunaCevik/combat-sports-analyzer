@@ -1,0 +1,18 @@
+# Build Artifacts & Object Files
+build/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+
+# IDE & Editor Files
+.cache/
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Compilation Databases (optional, but good if auto-generated)
+compile_commands.json
